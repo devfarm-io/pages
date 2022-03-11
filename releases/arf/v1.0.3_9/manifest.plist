@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/devfarm-io/pages/raw/56e7f0b0d4a3bb130776eb075e8dcae6108fc44e/releases/arf/v1.0.3_9/austin-rent-fence-installer-1.0.3_9.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://github.com/devfarm-io/pages/raw/master/images/arf/appstore-57x57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://github.com/devfarm-io/pages/raw/master/images/arf/appstore-512x512.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>io.devfarm.ARFInstaller</string>
+				<key>bundle-version</key>
+				<string>1.0.3</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
+				<key>title</key>
+				<string>Austin Rent Fence</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

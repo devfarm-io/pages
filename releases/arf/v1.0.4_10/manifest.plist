@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/devfarm-io/pages/raw/master/releases/arf/v1.0.4_10/austin-rent-fence-installer-1.0.4_10.ipa</string>
+					<string>https://raw.githubusercontent.com/devfarm-io/pages/master/releases/arf/v1.0.4_10/austin-rent-fence-installer-1.0.4_10.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
